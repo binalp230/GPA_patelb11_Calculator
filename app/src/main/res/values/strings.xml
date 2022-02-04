@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GPA_patelb11_Calculator</string>
+    <string name="gpa_display">Your GPA is : </string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="clear_button">Clear</string>
+
+    <string-array name="Courses">
+        <item>Select Course</item>
+        <item>Computer Algorithm</item>
+        <item>Database Systems</item>
+        <item>Computer Architecture</item>
+        <item>Mobile-Computing</item>
+        <item>Computer Security</item>
+    </string-array>
+
+    <string-array name="grades">
+        <item>Grades</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+    </string-array>
+</resources>
